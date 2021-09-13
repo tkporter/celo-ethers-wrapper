@@ -142,168 +142,168 @@
         "affectsGlobalScope": true
       },
       "../node_modules/@ethersproject/bytes/lib/index.d.ts": {
-        "version": "944f5ff6291f5c856cf8be8da3848112e11316d84547e95d1a8b4dd4b7fdd7cf",
-        "signature": "944f5ff6291f5c856cf8be8da3848112e11316d84547e95d1a8b4dd4b7fdd7cf",
+        "version": "2b87abc33d1d34762475c9393c087d2308547de24327d98b2c719826f4874b23",
+        "signature": "2b87abc33d1d34762475c9393c087d2308547de24327d98b2c719826f4874b23",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/bignumber/lib/bignumber.d.ts": {
-        "version": "9f5056fc2f29e3f550ffed517f0a18357283e5df7c003a20c0eb7b710980bdf4",
-        "signature": "9f5056fc2f29e3f550ffed517f0a18357283e5df7c003a20c0eb7b710980bdf4",
+        "version": "bdf5a95eb0a2dd1d39805bdf51b46ba012bb9b92b2ddaae16219595bba7678a5",
+        "signature": "bdf5a95eb0a2dd1d39805bdf51b46ba012bb9b92b2ddaae16219595bba7678a5",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts": {
-        "version": "edd9c4b27dcf90226af6141b40f1521a909a79409ad1300275a673d9906d5c4c",
-        "signature": "edd9c4b27dcf90226af6141b40f1521a909a79409ad1300275a673d9906d5c4c",
+        "version": "9f794a0e8550a03baff865a3961cc22afbd85bc4ba9672bdda036971928f85f4",
+        "signature": "9f794a0e8550a03baff865a3961cc22afbd85bc4ba9672bdda036971928f85f4",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/bignumber/lib/index.d.ts": {
-        "version": "eb589f99701ed5e876f7aff403ac119e33a6d52714055489d53e59f7747e5bc1",
-        "signature": "eb589f99701ed5e876f7aff403ac119e33a6d52714055489d53e59f7747e5bc1",
+        "version": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "signature": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/abi/lib/fragments.d.ts": {
-        "version": "304638dfb6a5229a735b757ce17fc91f8b32a44ba8f028e46c2a525659d0e60c",
-        "signature": "304638dfb6a5229a735b757ce17fc91f8b32a44ba8f028e46c2a525659d0e60c",
+        "version": "a0c8e17f4d1ea2704c62d7349bc3b8d9a12e3761b5960cb44144d3f0333b3fcb",
+        "signature": "a0c8e17f4d1ea2704c62d7349bc3b8d9a12e3761b5960cb44144d3f0333b3fcb",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/abi/lib/coders/abstract-coder.d.ts": {
-        "version": "eed0a68866f4c9770dee7e9e7cc2ef347dd7ef795b2633dc25ae97345fa0525c",
-        "signature": "eed0a68866f4c9770dee7e9e7cc2ef347dd7ef795b2633dc25ae97345fa0525c",
+        "version": "3471c0df3d0391e1dffe6e8bf150294531b2b71a2afa5f2b86e52bf84a5db60a",
+        "signature": "3471c0df3d0391e1dffe6e8bf150294531b2b71a2afa5f2b86e52bf84a5db60a",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/abi/lib/abi-coder.d.ts": {
-        "version": "f00144b47a5177790060ec03246eb78668ec64f3eee353b6c563cd3821dfe113",
-        "signature": "f00144b47a5177790060ec03246eb78668ec64f3eee353b6c563cd3821dfe113",
+        "version": "5d4df4de055eddf3187094f938a640f8d96e4c551a47d6686596fdb6ba4c3014",
+        "signature": "5d4df4de055eddf3187094f938a640f8d96e4c551a47d6686596fdb6ba4c3014",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/properties/lib/index.d.ts": {
-        "version": "8077ed85d83daedc53807df293f785557813c1c985ce139fad12c8275302b665",
-        "signature": "8077ed85d83daedc53807df293f785557813c1c985ce139fad12c8275302b665",
+        "version": "8bc2cad630da1033c1fd8d7df2bffb18af0da6113bd086a8bbec04a2471a1e00",
+        "signature": "8bc2cad630da1033c1fd8d7df2bffb18af0da6113bd086a8bbec04a2471a1e00",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/abi/lib/interface.d.ts": {
-        "version": "9af62980b55e6ce110cd9c3b954419b9c9acaefa410f1d80a1509e49226b46a6",
-        "signature": "9af62980b55e6ce110cd9c3b954419b9c9acaefa410f1d80a1509e49226b46a6",
+        "version": "1d78a21af7e7cda775de5a3c4c2947a4f502e8c3bafdfe7bc6fb22c12c187342",
+        "signature": "1d78a21af7e7cda775de5a3c4c2947a4f502e8c3bafdfe7bc6fb22c12c187342",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/abi/lib/index.d.ts": {
-        "version": "6f060209a6bcfdef57e03960a2512f50e55598916a79ddca444bd86386d90560",
-        "signature": "6f060209a6bcfdef57e03960a2512f50e55598916a79ddca444bd86386d90560",
+        "version": "5134885e9648e2c6745f8aa1c3e7f5ab3b3617258b3d81ca02de6655ede3d74e",
+        "signature": "5134885e9648e2c6745f8aa1c3e7f5ab3b3617258b3d81ca02de6655ede3d74e",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/networks/lib/types.d.ts": {
-        "version": "afaaa91d7154a55c42aad47b832d6d2dbaff5349f84a88f51ac27b8367ab40d7",
-        "signature": "afaaa91d7154a55c42aad47b832d6d2dbaff5349f84a88f51ac27b8367ab40d7",
+        "version": "4f1ae3f24125216cf07c5211a3f00d2bb4782d7cc76c0681603f8249f9232ff0",
+        "signature": "4f1ae3f24125216cf07c5211a3f00d2bb4782d7cc76c0681603f8249f9232ff0",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/networks/lib/index.d.ts": {
-        "version": "a5c4fcac0c69dc0e23e58f2a6705fa35063e0dc4865733a0d349c74b565359fe",
-        "signature": "a5c4fcac0c69dc0e23e58f2a6705fa35063e0dc4865733a0d349c74b565359fe",
+        "version": "d3fb92a5640f83f7844d60b35317a0f95c27e3658a749d76d218c461ad091668",
+        "signature": "d3fb92a5640f83f7844d60b35317a0f95c27e3658a749d76d218c461ad091668",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/transactions/lib/index.d.ts": {
-        "version": "0cc61c6b8bb39efed08d9d6e5fb63a79b069ad280c6b08b51c3476ca30beb0c5",
-        "signature": "0cc61c6b8bb39efed08d9d6e5fb63a79b069ad280c6b08b51c3476ca30beb0c5",
+        "version": "d1f8bfcd91b284657ef8187c55ace7db91a3c43e642c3f14e54364154932f7e4",
+        "signature": "d1f8bfcd91b284657ef8187c55ace7db91a3c43e642c3f14e54364154932f7e4",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/web/lib/index.d.ts": {
-        "version": "065c9abe1fcb72c283fd3e5e69307fa26cbbc1b849959e9cce066206c1955b23",
-        "signature": "065c9abe1fcb72c283fd3e5e69307fa26cbbc1b849959e9cce066206c1955b23",
+        "version": "d74331ab414bcf86fd0e39cb1f5368f30353340fa2d8e9b15c1bfbb04c72c256",
+        "signature": "d74331ab414bcf86fd0e39cb1f5368f30353340fa2d8e9b15c1bfbb04c72c256",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts": {
-        "version": "0222f13a187489ed5cd05b5e88763dd19595535d874d3375876bd83449c3ebdf",
-        "signature": "0222f13a187489ed5cd05b5e88763dd19595535d874d3375876bd83449c3ebdf",
+        "version": "df446aa58c21040d726b32c422420275a19bceed76f44875c308c91701638998",
+        "signature": "df446aa58c21040d726b32c422420275a19bceed76f44875c308c91701638998",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts": {
-        "version": "3eb4d5c6613df75fcac6f9fd9aa80dc59f56684f8251529a3e3bbf16f553b823",
-        "signature": "3eb4d5c6613df75fcac6f9fd9aa80dc59f56684f8251529a3e3bbf16f553b823",
+        "version": "c993f7ed1b8e1023c1f2ee5b262dbc3b70b27475674e40a53a58591f9972dacc",
+        "signature": "c993f7ed1b8e1023c1f2ee5b262dbc3b70b27475674e40a53a58591f9972dacc",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/contracts/lib/index.d.ts": {
-        "version": "70b7d84c6b1aa30009ed0a7761034629437ae1e51311df874753ce03e3ddaf20",
-        "signature": "70b7d84c6b1aa30009ed0a7761034629437ae1e51311df874753ce03e3ddaf20",
+        "version": "a331c0852fa505d23c0d0055df7405e6183d8a96bc611b9e50da4f90fd96a55d",
+        "signature": "a331c0852fa505d23c0d0055df7405e6183d8a96bc611b9e50da4f90fd96a55d",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/logger/lib/index.d.ts": {
-        "version": "b8d88c61e7b9255edc807ba41b4011a7aa4c960f276d5f8d450a58d4667751ab",
-        "signature": "b8d88c61e7b9255edc807ba41b4011a7aa4c960f276d5f8d450a58d4667751ab",
+        "version": "c1f7caeb1e61fe740debd686ac3fc381a9944d99e6944043f0b731c2506fd9f4",
+        "signature": "c1f7caeb1e61fe740debd686ac3fc381a9944d99e6944043f0b731c2506fd9f4",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/wordlists/lib/wordlist.d.ts": {
-        "version": "31bdbdc4a7be6e6c47108ebe0a7bbf92476ac7fddaad3b02c476c10885c782be",
-        "signature": "31bdbdc4a7be6e6c47108ebe0a7bbf92476ac7fddaad3b02c476c10885c782be",
+        "version": "267eb41d7d34151d8b5fdf8b73ddefe0684d7921f4b7db14101f600ea3e8ed02",
+        "signature": "267eb41d7d34151d8b5fdf8b73ddefe0684d7921f4b7db14101f600ea3e8ed02",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/wordlists/lib/wordlists.d.ts": {
-        "version": "0c86a5f6de65d0e4eb899a99c5b213d286e9392eafd9e5ab4536cf84e9a3d481",
-        "signature": "0c86a5f6de65d0e4eb899a99c5b213d286e9392eafd9e5ab4536cf84e9a3d481",
+        "version": "eb848e4da1fa7568c893e0a0e1f221572c56768dedfe21d2f7741d383c381552",
+        "signature": "eb848e4da1fa7568c893e0a0e1f221572c56768dedfe21d2f7741d383c381552",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/wordlists/lib/index.d.ts": {
-        "version": "849716b54ffe64372ffb5b0368ced712999307ba21f1aa0fdeb9daf2a6b09780",
-        "signature": "849716b54ffe64372ffb5b0368ced712999307ba21f1aa0fdeb9daf2a6b09780",
+        "version": "bd6b7d9ff1992fbde49e974f6bf4e8c35922042fc0b6f5326e61fa17a912ffe6",
+        "signature": "bd6b7d9ff1992fbde49e974f6bf4e8c35922042fc0b6f5326e61fa17a912ffe6",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/hdnode/lib/index.d.ts": {
-        "version": "4ae1bf6db5926ae2783b083624957deb5ea04f7230c40e4eae4bda899a674d04",
-        "signature": "4ae1bf6db5926ae2783b083624957deb5ea04f7230c40e4eae4bda899a674d04",
+        "version": "ac443b1f93babbfadff3aef4490044012ff461ba1cf1c7d90ac45f5a26863358",
+        "signature": "ac443b1f93babbfadff3aef4490044012ff461ba1cf1c7d90ac45f5a26863358",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/signing-key/lib/index.d.ts": {
-        "version": "41640a7b69177e472546d1931f762401102baee8ae9d07d2d94dd8e01305c999",
-        "signature": "41640a7b69177e472546d1931f762401102baee8ae9d07d2d94dd8e01305c999",
+        "version": "42e4cdd55aa23586b9aff929e2c216150276a37d30c2cf7c0f32ba917722b5e0",
+        "signature": "42e4cdd55aa23586b9aff929e2c216150276a37d30c2cf7c0f32ba917722b5e0",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/json-wallets/lib/crowdsale.d.ts": {
-        "version": "7313f66811aa794c04fefc8aed4b643b457860dfd395e7df1c209b7a656a7c3f",
-        "signature": "7313f66811aa794c04fefc8aed4b643b457860dfd395e7df1c209b7a656a7c3f",
+        "version": "4a1ed19ead46b1dd5a319d533fb92162b4ef052ab1c690889cb2eaee293441a1",
+        "signature": "4a1ed19ead46b1dd5a319d533fb92162b4ef052ab1c690889cb2eaee293441a1",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/json-wallets/lib/inspect.d.ts": {
-        "version": "9ce48a4c73a49b833b6cc3ba825c5e2d43edf2570e208d467be5798fbff0a35f",
-        "signature": "9ce48a4c73a49b833b6cc3ba825c5e2d43edf2570e208d467be5798fbff0a35f",
+        "version": "d0d5b967e5c36354b2f13b4bfb78aae4c1685efa9df3fd946d2e576d370e9302",
+        "signature": "d0d5b967e5c36354b2f13b4bfb78aae4c1685efa9df3fd946d2e576d370e9302",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/json-wallets/lib/keystore.d.ts": {
-        "version": "4a5ddbab7b075d91a9c3f458daabd084891ed41878adf620dbd0f09fd8b56af2",
-        "signature": "4a5ddbab7b075d91a9c3f458daabd084891ed41878adf620dbd0f09fd8b56af2",
+        "version": "8076164b388640f7856b25e945a2ded7738e0f8674ac50c256734067b0f0b1b9",
+        "signature": "8076164b388640f7856b25e945a2ded7738e0f8674ac50c256734067b0f0b1b9",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/json-wallets/lib/index.d.ts": {
-        "version": "37023c02ad5939d04b6319073611488f51632eb5d3051f45245e5ca7ffc8150b",
-        "signature": "37023c02ad5939d04b6319073611488f51632eb5d3051f45245e5ca7ffc8150b",
+        "version": "36819a1e04a8dbed754a5b3ba2fd5aca2eafb95977eaad6356d77df596c732f4",
+        "signature": "36819a1e04a8dbed754a5b3ba2fd5aca2eafb95977eaad6356d77df596c732f4",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/wallet/lib/index.d.ts": {
-        "version": "69ede591950932e5554a5796f626015fca8aaa8fd38f70df61d7125ff212665f",
-        "signature": "69ede591950932e5554a5796f626015fca8aaa8fd38f70df61d7125ff212665f",
+        "version": "5fe9c19f085365b73956e27becc5167ad25c5fb024bed4728884966a0faab3f3",
+        "signature": "5fe9c19f085365b73956e27becc5167ad25c5fb024bed4728884966a0faab3f3",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/constants/lib/addresses.d.ts": {
-        "version": "4bc9676a5bd0330081c4d252d8a0c9a8ee0f0f693776a42ae46b2a67c0f30b50",
-        "signature": "4bc9676a5bd0330081c4d252d8a0c9a8ee0f0f693776a42ae46b2a67c0f30b50",
+        "version": "d67961ebada9a5e5c393d9c46a4155877a9f7a48b02a0afc6bbe4e87061e46f5",
+        "signature": "d67961ebada9a5e5c393d9c46a4155877a9f7a48b02a0afc6bbe4e87061e46f5",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/constants/lib/bignumbers.d.ts": {
-        "version": "ea4b44cb77d68569069e84a8097ce190a3e6c1ab2c2df0f845098c940a5fa7c0",
-        "signature": "ea4b44cb77d68569069e84a8097ce190a3e6c1ab2c2df0f845098c940a5fa7c0",
+        "version": "d5e88cd4816669da170c646844042bc83f4523275f85060cf3e2b5b3bf902ee0",
+        "signature": "d5e88cd4816669da170c646844042bc83f4523275f85060cf3e2b5b3bf902ee0",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/constants/lib/hashes.d.ts": {
-        "version": "c05e1bf1ea24d5584208222a96b0191681a507e8836e163b12e6322a2562a274",
-        "signature": "c05e1bf1ea24d5584208222a96b0191681a507e8836e163b12e6322a2562a274",
+        "version": "137ee20e77a23986e9a1fdf6397b555e6d3073bdcca15927c40671d1ac564aac",
+        "signature": "137ee20e77a23986e9a1fdf6397b555e6d3073bdcca15927c40671d1ac564aac",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/constants/lib/strings.d.ts": {
-        "version": "cc0e7ae632d38d8ef6cc04d7b206ae71aaf0ce9f29e4c1cf38f5e358379fa608",
-        "signature": "cc0e7ae632d38d8ef6cc04d7b206ae71aaf0ce9f29e4c1cf38f5e358379fa608",
+        "version": "a28b00d18def7993bc502f19be6abdb89db2548fe946a51f0771b8ed26a6786c",
+        "signature": "a28b00d18def7993bc502f19be6abdb89db2548fe946a51f0771b8ed26a6786c",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/constants/lib/index.d.ts": {
-        "version": "a74059ea6200553244f88a5a38e2de21adae8ecd781011f4f101ec7498e53f4a",
-        "signature": "a74059ea6200553244f88a5a38e2de21adae8ecd781011f4f101ec7498e53f4a",
+        "version": "0fc6ddce4aabc8d84a6aa6644e1012a1474ba844ed6bddc7bea7115583e8a72e",
+        "signature": "0fc6ddce4aabc8d84a6aa6644e1012a1474ba844ed6bddc7bea7115583e8a72e",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/globals.d.ts": {
@@ -542,213 +542,218 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/formatter.d.ts": {
-        "version": "d9cd53a959450e985d9e43d3c90451ae8b7ef8f02cad49181985701661d626d3",
-        "signature": "d9cd53a959450e985d9e43d3c90451ae8b7ef8f02cad49181985701661d626d3",
+        "version": "277afd6ab6ec72889e2988e0ddd7d138c1f512e68a1fa4e90eedfd71e2097a51",
+        "signature": "277afd6ab6ec72889e2988e0ddd7d138c1f512e68a1fa4e90eedfd71e2097a51",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/base-provider.d.ts": {
-        "version": "a05e4130a324a647b67b52a86ba5bd06e4d191357319a27fc569565587f1f9b5",
-        "signature": "a05e4130a324a647b67b52a86ba5bd06e4d191357319a27fc569565587f1f9b5",
+        "version": "8a62391de4fa87a23f6cbe76c9c9374c02b53c5cd940ef7d5eb895b72d3754be",
+        "signature": "8a62391de4fa87a23f6cbe76c9c9374c02b53c5cd940ef7d5eb895b72d3754be",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts": {
-        "version": "a07ae232583c32193a6ffa3d053c224dd1a18ca1d40c64ecc65ff73d7f3cb391",
-        "signature": "a07ae232583c32193a6ffa3d053c224dd1a18ca1d40c64ecc65ff73d7f3cb391",
+        "version": "080e4c13d4d137e22ac0bf5a7f9389644821b9a3ddcb723acdf58936f3d99946",
+        "signature": "080e4c13d4d137e22ac0bf5a7f9389644821b9a3ddcb723acdf58936f3d99946",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts": {
-        "version": "71c98aa0af51975183f9b9b1e148ea023635ad9aba6fc2d7a932af9c7547bf58",
-        "signature": "71c98aa0af51975183f9b9b1e148ea023635ad9aba6fc2d7a932af9c7547bf58",
+        "version": "53df875d52e0838dee95623391d839f0f25193ce304598edba55db893b692c0c",
+        "signature": "53df875d52e0838dee95623391d839f0f25193ce304598edba55db893b692c0c",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts": {
-        "version": "6abcef1796724df2629c70ad6e321eb1e1f3960746a3a5f5c2ef19b4bddf3e20",
-        "signature": "6abcef1796724df2629c70ad6e321eb1e1f3960746a3a5f5c2ef19b4bddf3e20",
+        "version": "3633f87c97d359cb55fa7bf0668fb2be8a23342951af6ec2d06e6d0cf7409371",
+        "signature": "3633f87c97d359cb55fa7bf0668fb2be8a23342951af6ec2d06e6d0cf7409371",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/alchemy-provider.d.ts": {
-        "version": "81b75dd85da0ec7587e709949703a8bf1e99c74ba80073bd3753a3e7b9fc932b",
-        "signature": "81b75dd85da0ec7587e709949703a8bf1e99c74ba80073bd3753a3e7b9fc932b",
+        "version": "cc3a5427d44fc77ff25e80b3edee4650a51f83de761faf5e633994ecf1ab1b44",
+        "signature": "cc3a5427d44fc77ff25e80b3edee4650a51f83de761faf5e633994ecf1ab1b44",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/cloudflare-provider.d.ts": {
-        "version": "308dffcc02527f676c6a0558c0b99c990bf4d6cc8d4e5c346acbc8dd68652e3d",
-        "signature": "308dffcc02527f676c6a0558c0b99c990bf4d6cc8d4e5c346acbc8dd68652e3d",
+        "version": "f421882756b6714834ae4687ab1aeadf344a1cc45437d2edffbac020ff3801c1",
+        "signature": "f421882756b6714834ae4687ab1aeadf344a1cc45437d2edffbac020ff3801c1",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/etherscan-provider.d.ts": {
-        "version": "a34351a363c969be6394e8673536c58ca199382d777799764aff04ce5ee288e4",
-        "signature": "a34351a363c969be6394e8673536c58ca199382d777799764aff04ce5ee288e4",
+        "version": "dfb1d4f5b00473a54a4f025ca7606173036bdf111f9806d957d5099e2cd55c62",
+        "signature": "dfb1d4f5b00473a54a4f025ca7606173036bdf111f9806d957d5099e2cd55c62",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/fallback-provider.d.ts": {
-        "version": "289b63ea64efb6b50d7d68bcf3180a297a117c18d67accad712a336ec92c07b4",
-        "signature": "289b63ea64efb6b50d7d68bcf3180a297a117c18d67accad712a336ec92c07b4",
+        "version": "e5cef5de3e5ad3436d414d20743231e284733b9cf4375dc79eff4fcca4282f99",
+        "signature": "e5cef5de3e5ad3436d414d20743231e284733b9cf4375dc79eff4fcca4282f99",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts": {
-        "version": "76e5a7da4209a201add0a63931d8390b3b021d01c80048b950dffc580ce16543",
-        "signature": "76e5a7da4209a201add0a63931d8390b3b021d01c80048b950dffc580ce16543",
+        "version": "e624419ba84e33e661e89a28083119ca41f6953dba09a4f82b660684087afe6d",
+        "signature": "e624419ba84e33e661e89a28083119ca41f6953dba09a4f82b660684087afe6d",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts": {
-        "version": "5b0433a9b6b2578864a145a50ed5aeb76e0e80c45310710d0fd2994a3c62d42d",
-        "signature": "5b0433a9b6b2578864a145a50ed5aeb76e0e80c45310710d0fd2994a3c62d42d",
+        "version": "942be430bd0feaced2e3e598273b17e50ea565ec9dac840b580b0b99e1a3cd5c",
+        "signature": "942be430bd0feaced2e3e598273b17e50ea565ec9dac840b580b0b99e1a3cd5c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts": {
+        "version": "73350006cec5a0c6b71d53b0b0ddbfb82be96752a9c4e3c904c59e633bc9485e",
+        "signature": "73350006cec5a0c6b71d53b0b0ddbfb82be96752a9c4e3c904c59e633bc9485e",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts": {
-        "version": "1ffa3bce6c9f40d2fe458aed53df42fc8cd05df835bd915b0af97d2d1d016991",
-        "signature": "1ffa3bce6c9f40d2fe458aed53df42fc8cd05df835bd915b0af97d2d1d016991",
+        "version": "a7df5c2e9594966c7e0d4a763b13ed5727506d892669df5f7bc9826f539c1d35",
+        "signature": "a7df5c2e9594966c7e0d4a763b13ed5727506d892669df5f7bc9826f539c1d35",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts": {
-        "version": "f5e810ea0753cbfbd0aff8011ef9c9d91752f0d5f0c68ff5ccac0e1671e0b7f2",
-        "signature": "f5e810ea0753cbfbd0aff8011ef9c9d91752f0d5f0c68ff5ccac0e1671e0b7f2",
+        "version": "2286a5599f5746d6ae48dceef0322b020e6d0b0b0b64683492ac6cda6809c6d0",
+        "signature": "2286a5599f5746d6ae48dceef0322b020e6d0b0b0b64683492ac6cda6809c6d0",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/web3-provider.d.ts": {
-        "version": "282a16fb381de9fa6bc2ba2bc69debcc02a67504e103b35a16ad6c5e696f06f7",
-        "signature": "282a16fb381de9fa6bc2ba2bc69debcc02a67504e103b35a16ad6c5e696f06f7",
+        "version": "00a6db28fc4df6ddf10adbe630d9df620ec13af19039c1869653e60dafa739d2",
+        "signature": "00a6db28fc4df6ddf10adbe630d9df620ec13af19039c1869653e60dafa739d2",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/providers/lib/index.d.ts": {
-        "version": "179f9f8a2066f57ca954e2be94d4f90d221e93632adc31114fe068d1293d3e1a",
-        "signature": "179f9f8a2066f57ca954e2be94d4f90d221e93632adc31114fe068d1293d3e1a",
+        "version": "36391aa57df571cd7035c2a968849881b632262b259ab7e168cc7d32afbb0914",
+        "signature": "36391aa57df571cd7035c2a968849881b632262b259ab7e168cc7d32afbb0914",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/address/lib/index.d.ts": {
-        "version": "8219f7d3ad85ae8707901401710e5c870c27adae0adbf41b5c3a9fd98b322149",
-        "signature": "8219f7d3ad85ae8707901401710e5c870c27adae0adbf41b5c3a9fd98b322149",
+        "version": "f02da9dd36d7a9aa33c9b2e37ef1f54b0d9ad6a713bae372ae4b72890e40c168",
+        "signature": "f02da9dd36d7a9aa33c9b2e37ef1f54b0d9ad6a713bae372ae4b72890e40c168",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/base64/lib/base64.d.ts": {
-        "version": "958184b6fae016765003cce2ae0b6dc3b18fb10ef1759742fc36bfe81a2cafac",
-        "signature": "958184b6fae016765003cce2ae0b6dc3b18fb10ef1759742fc36bfe81a2cafac",
+        "version": "3a5652c44d7b3ee47b1d294b1893b30253d8fb6a1ecaafaf5fdef5fdc118f54c",
+        "signature": "3a5652c44d7b3ee47b1d294b1893b30253d8fb6a1ecaafaf5fdef5fdc118f54c",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/base64/lib/index.d.ts": {
-        "version": "941fb0a14ed357f58d8fd815a5c28729f59499065af500817d335eec9336e44e",
-        "signature": "941fb0a14ed357f58d8fd815a5c28729f59499065af500817d335eec9336e44e",
+        "version": "4fba134e9015779329678ff1fd1afc32bbbf391b1f419f7622a3ecde7bbfc355",
+        "signature": "4fba134e9015779329678ff1fd1afc32bbbf391b1f419f7622a3ecde7bbfc355",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/basex/lib/index.d.ts": {
-        "version": "079fa6936ef611297f6485b5a67e5457b848ae0ce5ca924bcffbb146dbd77cd9",
-        "signature": "079fa6936ef611297f6485b5a67e5457b848ae0ce5ca924bcffbb146dbd77cd9",
+        "version": "af75984f58aa9205be02b0a2248d05f6105a8d4bf8be0baca294b5ceaa10e33e",
+        "signature": "af75984f58aa9205be02b0a2248d05f6105a8d4bf8be0baca294b5ceaa10e33e",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/hash/lib/id.d.ts": {
-        "version": "bede61fa7672a5ca191125df32d5601069d2bd4d458c965fa139f91aaecc9b91",
-        "signature": "bede61fa7672a5ca191125df32d5601069d2bd4d458c965fa139f91aaecc9b91",
+        "version": "45a910666b455daf042c0a0cfa610c20ea59a0aaf702f93d3b467a05f9a27e20",
+        "signature": "45a910666b455daf042c0a0cfa610c20ea59a0aaf702f93d3b467a05f9a27e20",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/hash/lib/namehash.d.ts": {
-        "version": "24a829ae2ae1152cb09f053109eb7f7b16af046cd34e91f3ef8ede4b41c30a52",
-        "signature": "24a829ae2ae1152cb09f053109eb7f7b16af046cd34e91f3ef8ede4b41c30a52",
+        "version": "3f8ca49b21fda09ca4b77d0811c328dd796a00ae95c825b0532a9441855ccd41",
+        "signature": "3f8ca49b21fda09ca4b77d0811c328dd796a00ae95c825b0532a9441855ccd41",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/hash/lib/message.d.ts": {
-        "version": "223f0342baa9ce216b2768c7944433256cc96b38014d5c5a25fe633ca9c3b6ed",
-        "signature": "223f0342baa9ce216b2768c7944433256cc96b38014d5c5a25fe633ca9c3b6ed",
+        "version": "84fb7c52fc116ddcbd1b34535e387053f2a0134d11c5e39b193f4c1328fb1fb5",
+        "signature": "84fb7c52fc116ddcbd1b34535e387053f2a0134d11c5e39b193f4c1328fb1fb5",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/hash/lib/typed-data.d.ts": {
-        "version": "2bfbd35239fd18e4c8740f1c4b8a8a9bfe7c111645747bd1dd6f5c7b294e418d",
-        "signature": "2bfbd35239fd18e4c8740f1c4b8a8a9bfe7c111645747bd1dd6f5c7b294e418d",
+        "version": "fd3cd8bf3c90ef4694195a617a5daaac561d8be52ba33c607f170c11f3c50154",
+        "signature": "fd3cd8bf3c90ef4694195a617a5daaac561d8be52ba33c607f170c11f3c50154",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/hash/lib/index.d.ts": {
-        "version": "edd38cb0785bb2c1cf9054d786d052e1dc16ed867680f683adb86ff699247588",
-        "signature": "edd38cb0785bb2c1cf9054d786d052e1dc16ed867680f683adb86ff699247588",
+        "version": "da594046013790b1b7048441bdcf896eefe5a2470bfc405c29b126249c8a11fb",
+        "signature": "da594046013790b1b7048441bdcf896eefe5a2470bfc405c29b126249c8a11fb",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/keccak256/lib/index.d.ts": {
-        "version": "03304daca5bb7c1c66071ae8e9c22d390d44afeb95c8605056dd46e14c81473b",
-        "signature": "03304daca5bb7c1c66071ae8e9c22d390d44afeb95c8605056dd46e14c81473b",
+        "version": "9f963b28320dd50221cd23f23059bc23cc7799c7025b44942da68974f90c2e6c",
+        "signature": "9f963b28320dd50221cd23f23059bc23cc7799c7025b44942da68974f90c2e6c",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/sha2/lib/types.d.ts": {
-        "version": "29f732947c0ee0ea0a35c3b9bdeb38608661bdbd4cde06d21fcab676a1762a09",
-        "signature": "29f732947c0ee0ea0a35c3b9bdeb38608661bdbd4cde06d21fcab676a1762a09",
+        "version": "c17329bcf495af58e3010f8e61af51709aaa24a6664d8557a7d01a82b5397c59",
+        "signature": "c17329bcf495af58e3010f8e61af51709aaa24a6664d8557a7d01a82b5397c59",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/sha2/lib/sha2.d.ts": {
-        "version": "876f706d3ebe0ea592bb966a1aa2e4ffe36d498b65460202b354b1dd9871eaec",
-        "signature": "876f706d3ebe0ea592bb966a1aa2e4ffe36d498b65460202b354b1dd9871eaec",
+        "version": "4eebb617b12f21864e6641d0a9eefaca77a9ccf93f00bb7d50b26d8073866e53",
+        "signature": "4eebb617b12f21864e6641d0a9eefaca77a9ccf93f00bb7d50b26d8073866e53",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/sha2/lib/index.d.ts": {
-        "version": "e4eae6d4d23d8fec2795b0852bd613b0fe864f2ac02f8c7ffd798890026f000f",
-        "signature": "e4eae6d4d23d8fec2795b0852bd613b0fe864f2ac02f8c7ffd798890026f000f",
+        "version": "ca0b43e2565d78809383e9a025b0638a5e65bcde4a2b68ff2c6fa5013642db46",
+        "signature": "ca0b43e2565d78809383e9a025b0638a5e65bcde4a2b68ff2c6fa5013642db46",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/solidity/lib/index.d.ts": {
-        "version": "9d4f67a14f470d42e1e40899752d25b933ac808331c60bb59e3c1cd3174a0a83",
-        "signature": "9d4f67a14f470d42e1e40899752d25b933ac808331c60bb59e3c1cd3174a0a83",
+        "version": "1d0a0e5c6471d81467c3fecfa4db4e93ee87d364b776feb83b18d773ad9496d5",
+        "signature": "1d0a0e5c6471d81467c3fecfa4db4e93ee87d364b776feb83b18d773ad9496d5",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/random/lib/random.d.ts": {
-        "version": "799dde75a16b32af7b178195f6bf7d24eb44723e457e653af932929ed75b677b",
-        "signature": "799dde75a16b32af7b178195f6bf7d24eb44723e457e653af932929ed75b677b",
+        "version": "ef6eddcbf08e7ae71cd9ba8da47e9a3cfc7db36650af48f1b440a5ed50eeee7a",
+        "signature": "ef6eddcbf08e7ae71cd9ba8da47e9a3cfc7db36650af48f1b440a5ed50eeee7a",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/random/lib/shuffle.d.ts": {
-        "version": "b19a369fa84b016b894ae8a9da1753c79d01e86bf4e5e5452a2a609fc42edffc",
-        "signature": "b19a369fa84b016b894ae8a9da1753c79d01e86bf4e5e5452a2a609fc42edffc",
+        "version": "e14ee3cb4b764895f2ff2fed229df10b59df8a761c79d8e91d868793322b8896",
+        "signature": "e14ee3cb4b764895f2ff2fed229df10b59df8a761c79d8e91d868793322b8896",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/random/lib/index.d.ts": {
-        "version": "5ecba29a53412774bbcbc314f5608688c0d259bd539a34721858538871690aee",
-        "signature": "5ecba29a53412774bbcbc314f5608688c0d259bd539a34721858538871690aee",
+        "version": "7e36003872035a49bc3a5f21351c37d0e418f60d994ecc470a9463b33b4a7c12",
+        "signature": "7e36003872035a49bc3a5f21351c37d0e418f60d994ecc470a9463b33b4a7c12",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/rlp/lib/index.d.ts": {
-        "version": "2a8172b7b016ea984d3539402021d04a819b8b1dff7b637fdd806a90ea418409",
-        "signature": "2a8172b7b016ea984d3539402021d04a819b8b1dff7b637fdd806a90ea418409",
+        "version": "b862345e219e6a4d829f7b7cf6d2d6e91e6fa00c29a7c6c86a3f68c77c25de39",
+        "signature": "b862345e219e6a4d829f7b7cf6d2d6e91e6fa00c29a7c6c86a3f68c77c25de39",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/strings/lib/bytes32.d.ts": {
-        "version": "200695fdcbfaaf8f4f211ff652a7a1b8cbdbc1b0f17d11d83f2e7ba6af156426",
-        "signature": "200695fdcbfaaf8f4f211ff652a7a1b8cbdbc1b0f17d11d83f2e7ba6af156426",
+        "version": "5b919d9204446816876000e03f033458527bde5e3637783b2bc2e7e9ef7ce897",
+        "signature": "5b919d9204446816876000e03f033458527bde5e3637783b2bc2e7e9ef7ce897",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/strings/lib/idna.d.ts": {
-        "version": "05ec57924483b085ed9371c0ec903fef3168ac2b849ec8bdc4ff98dec17d32cb",
-        "signature": "05ec57924483b085ed9371c0ec903fef3168ac2b849ec8bdc4ff98dec17d32cb",
+        "version": "213984ba990f03127a98c3f022d5ca0f0d42df64d4dca199f7319448ce6f3021",
+        "signature": "213984ba990f03127a98c3f022d5ca0f0d42df64d4dca199f7319448ce6f3021",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/strings/lib/utf8.d.ts": {
-        "version": "d5e23166d60ee8bfd6f213785fa72413f8a64024237717c8bacff71a02a4c52e",
-        "signature": "d5e23166d60ee8bfd6f213785fa72413f8a64024237717c8bacff71a02a4c52e",
+        "version": "020ab2020569964d12e40c68ceae39f40f6c0bee9d502a180f039fcb59c2e34d",
+        "signature": "020ab2020569964d12e40c68ceae39f40f6c0bee9d502a180f039fcb59c2e34d",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/strings/lib/index.d.ts": {
-        "version": "5b23b42aa90e68810bce6a9f2444a85e6282262d206d931c8d26bec32d7d0372",
-        "signature": "5b23b42aa90e68810bce6a9f2444a85e6282262d206d931c8d26bec32d7d0372",
+        "version": "aa50dc8a102c76282915e78944293a777866efe6d220a28884ac4a42d7f4c4e2",
+        "signature": "aa50dc8a102c76282915e78944293a777866efe6d220a28884ac4a42d7f4c4e2",
         "affectsGlobalScope": false
       },
       "../node_modules/@ethersproject/units/lib/index.d.ts": {
-        "version": "934be59ffa800c4caece8305ad4d11b2aae3e8c5f935ce79961d9b4bbcdde5d5",
-        "signature": "934be59ffa800c4caece8305ad4d11b2aae3e8c5f935ce79961d9b4bbcdde5d5",
+        "version": "2b88f02598c9de626b35fbe3ffb1ef33ad9fd175e36e06ba27dc79e444796f6c",
+        "signature": "2b88f02598c9de626b35fbe3ffb1ef33ad9fd175e36e06ba27dc79e444796f6c",
         "affectsGlobalScope": false
       },
       "../node_modules/ethers/lib/utils.d.ts": {
-        "version": "227092a8703957fac2e2d771fe3622a3aae4da3ea6609f3d9f94f1fe087a95b4",
-        "signature": "227092a8703957fac2e2d771fe3622a3aae4da3ea6609f3d9f94f1fe087a95b4",
+        "version": "a783c6e25799d8e306880b01327256427bb92b5dc5a8ec32f1ebdd90841a8acf",
+        "signature": "a783c6e25799d8e306880b01327256427bb92b5dc5a8ec32f1ebdd90841a8acf",
         "affectsGlobalScope": false
       },
       "../node_modules/ethers/lib/_version.d.ts": {
-        "version": "44a05ae875410047e6c2397d4355899b507337fe886999d53b56bae35868de29",
-        "signature": "44a05ae875410047e6c2397d4355899b507337fe886999d53b56bae35868de29",
+        "version": "a88206d01ab212eee8d7d9b891f81c3dd2c377ced5b2999d83bb9104b75f5ef1",
+        "signature": "a88206d01ab212eee8d7d9b891f81c3dd2c377ced5b2999d83bb9104b75f5ef1",
         "affectsGlobalScope": false
       },
       "../node_modules/ethers/lib/ethers.d.ts": {
-        "version": "1c67883053fdb345cfc783069228918a4045e4cbb2bd16f7d64621fe3839af6f",
-        "signature": "1c67883053fdb345cfc783069228918a4045e4cbb2bd16f7d64621fe3839af6f",
+        "version": "ec8bbb5222284a2c6be22cb20b84ea08413f120b1129c73c75ca58262678cc87",
+        "signature": "ec8bbb5222284a2c6be22cb20b84ea08413f120b1129c73c75ca58262678cc87",
         "affectsGlobalScope": false
       },
       "../node_modules/ethers/lib/index.d.ts": {
-        "version": "d93e980d1acab8717b8263eaf541484b11512fc985a87f2bb698732e3552f286",
-        "signature": "d93e980d1acab8717b8263eaf541484b11512fc985a87f2bb698732e3552f286",
+        "version": "d6068e4b05f9fd73c11ffead8f51eedb4a6dcee816e845d80b192f60fa0d5ccc",
+        "signature": "d6068e4b05f9fd73c11ffead8f51eedb4a6dcee816e845d80b192f60fa0d5ccc",
         "affectsGlobalScope": false
       },
       "../src/lib/transactions.ts": {
@@ -884,7 +889,8 @@
         "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
         "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
         "../node_modules/@ethersproject/bignumber/lib/index.d.ts",
-        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts"
       ],
       "../node_modules/@ethersproject/hash/lib/index.d.ts": [
         "../node_modules/@ethersproject/hash/lib/id.d.ts",
@@ -959,7 +965,8 @@
       ],
       "../node_modules/@ethersproject/providers/lib/formatter.d.ts": [
         "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
-        "../node_modules/@ethersproject/bignumber/lib/index.d.ts"
+        "../node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts"
       ],
       "../node_modules/@ethersproject/providers/lib/index.d.ts": [
         "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
@@ -972,6 +979,7 @@
         "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
         "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts",
         "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts",
         "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
         "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts",
         "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts",
@@ -990,6 +998,10 @@
         "../node_modules/@ethersproject/networks/lib/index.d.ts",
         "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
       ],
+      "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts": [
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
       "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts": [
         "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
         "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
@@ -997,6 +1009,7 @@
         "../node_modules/@ethersproject/networks/lib/index.d.ts",
         "../node_modules/@ethersproject/properties/lib/index.d.ts",
         "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
         "../node_modules/@ethersproject/web/lib/index.d.ts"
       ],
       "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts": [
@@ -1380,7 +1393,8 @@
         "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
         "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
         "../node_modules/@ethersproject/bignumber/lib/index.d.ts",
-        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts"
       ],
       "../node_modules/@ethersproject/hash/lib/index.d.ts": [
         "../node_modules/@ethersproject/hash/lib/id.d.ts",
@@ -1455,7 +1469,8 @@
       ],
       "../node_modules/@ethersproject/providers/lib/formatter.d.ts": [
         "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
-        "../node_modules/@ethersproject/bignumber/lib/index.d.ts"
+        "../node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts"
       ],
       "../node_modules/@ethersproject/providers/lib/index.d.ts": [
         "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
@@ -1468,6 +1483,7 @@
         "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
         "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts",
         "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts",
         "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
         "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts",
         "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts",
@@ -1486,6 +1502,10 @@
         "../node_modules/@ethersproject/networks/lib/index.d.ts",
         "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
       ],
+      "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts": [
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
       "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts": [
         "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
         "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
@@ -1493,6 +1513,7 @@
         "../node_modules/@ethersproject/networks/lib/index.d.ts",
         "../node_modules/@ethersproject/properties/lib/index.d.ts",
         "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
         "../node_modules/@ethersproject/web/lib/index.d.ts"
       ],
       "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts": [
@@ -1843,6 +1864,7 @@
       "../node_modules/@ethersproject/providers/lib/index.d.ts",
       "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts",
       "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts",
       "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
       "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts",
       "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts",
